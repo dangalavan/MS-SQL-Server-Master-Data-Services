@@ -2,6 +2,7 @@
 
 	-- Author : Dan Galavan
 	-- Date: 19-November-2013
+	-- This script is shared under the MIT licence. 
 	-- Description:	Get full listing of user permissions in MDS 
 	-- Notes: 1. Reconfigure the "Get Model ID" section by replacing the "Enter Model Name here" text 
 	--		  with the the relevant model name 
